@@ -1,0 +1,4 @@
+smith/
+smith.db
+.env
+__pycache__/
